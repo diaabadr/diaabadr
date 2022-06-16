@@ -1,7 +1,6 @@
 <p align="center">
 <strong> Hi there </strong>👋
 </p>
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=diaabadr&row=2&column=3&theme=juicyfresh&margin-w=15&margin-h=15&no-frame=true)" alt="trophy" /></p>
 
 
