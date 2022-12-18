@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **diaabadr82@gmail.com**
 
--  <a href="https://drive.google.com/drive/folders/16n6kDLhXHULzLW7MEkSqKVqfVtw7A7T5">📄 know about my experience</a>
+-  <a href="https://drive.google.com/drive/folders/16n6kDLhXHULzLW7MEkSqKVqfVtw7A7T5">📄 My Resume</a>
 <!-- Know about my experiences [https://drive.google.com/drive/folders/16n6kDLhXHULzLW7MEkSqKVqfVtw7A7T5](https://drive.google.com/drive/folders/16n6kDLhXHULzLW7MEkSqKVqfVtw7A7T5) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
