@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diaa Badr</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 🔭 I’m currently working at Orange Digital Center as **Backend Developer Intern**
+- 🔭 I’m currently working at Codescalers Egypt as **Software Engineer Intern**
 
 - 🤝 Open for Job offers or an Intern.
 
