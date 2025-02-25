@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diaa Badr</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 🔭 I’m currently working at Taino Systems Canada as **Software Engineer**
-
-- 🤝 Open for Job offers or an Intern.
+- 🔭 I’m currently working at Acksession as **Software Engineer**
 
 - 📫 How to reach me **diaabadr82@gmail.com**
 
